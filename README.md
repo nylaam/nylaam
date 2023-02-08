@@ -18,7 +18,7 @@
   <samp>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/nayla-nur-amalia/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/nayla-nur-amalia-a80397263" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:naylaamalia798@gmail.com" target="blank"><img align="center"

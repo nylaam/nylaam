@@ -10,7 +10,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/nylaam">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Junior+Frontend+Developer;Web+Enthusiast;&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Enthusiast;&center=true&width=380&height=45">
 	</a>
 </p>
 
